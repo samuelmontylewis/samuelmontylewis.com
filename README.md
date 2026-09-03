@@ -1,3 +1,5 @@
+MADE WITH CLAUDE
+
 Samuel Monty Lewis sin blog
 
 ## Auth redirects
