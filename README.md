@@ -1,6 +1,6 @@
 # Samuel Monty Lewis' Blog
 
-This is the personal blog and web application for **Samuel Monty Lewis**. The project was built with the help of AI coding tools, mainly **OpenAI Codex** and **Claude Code**, using some of the most capable models available at the time, including **Claude Opus 4.6** and **GPT-5.5**.
+This is the blog and web application for **Samuel Monty Lewis**. The project was built with the help of AI coding tools, mainly **OpenAI Codex** and **Claude Code**, using some of the most capable models available at the time, including **Claude Opus 4.6** and **GPT-5.5**.
 
 AI was used throughout development to help with writing code, debugging, improving the structure of the application, and implementing features.
 
