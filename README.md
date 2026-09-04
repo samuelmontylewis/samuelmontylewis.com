@@ -7,6 +7,7 @@ AI was used throughout development to help with writing code, debugging, improvi
 The website also uses **Supabase** for authentication, including account confirmation and password reset functionality.
 
 ## Live demo
+![image](https://github.com/user-attachments/assets/272d4c16-db00-47af-899d-785323677285)
 
 Try it out at:
 
